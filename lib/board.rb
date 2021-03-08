@@ -1,3 +1,4 @@
 def board
-  board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+  board = Array.new
+  Array.new = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 end
